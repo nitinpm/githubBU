@@ -1,5 +1,5 @@
 # githubBU
-BU projects and assignments
+projects and assignments
 
 # author: Nitin
-Courses covered: Operating Systems, Algorithms
+Courses covered: Operating Systems, Algorithms, Design Patterns
