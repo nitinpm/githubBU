@@ -1,0 +1,54 @@
+Output:
+
+
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Word Count: 111	Distinct Words: 79	Character Count: 398
+Total time: 2.9
