@@ -2,4 +2,4 @@
 projects and assignments
 
 # author: Nitin
-Courses covered: Operating Systems, Algorithms, Design Patterns
+Subjects: Operating Systems, Algorithms, Design Patterns
